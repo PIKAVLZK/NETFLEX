@@ -1,0 +1,19 @@
+.header {
+  padding: 40px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+
+  .title {
+    margin: 0;
+    display: inline-block;
+    font: 700 40px/1 arial;
+    text-decoration: none;
+    color: red;
+  }
+
+  .signUp {
+    text-decoration: none;
+    color: white;
+  }
+}
